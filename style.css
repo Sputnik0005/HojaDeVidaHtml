@@ -1,0 +1,62 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+#Titulo {
+  text-align: center;
+}
+
+#Imagen {
+  height: 250px;
+}
+
+#Titulo2 {
+  font-size:20px;
+  background-color: #bb8fce;
+  text-align: center;
+}
+
+#Datos {
+  margin-left: 30%;
+}
+
+#Titulo3 {
+  font-size:20px;
+  background-color: #bb8fce;
+
+  text-align: center;
+}
+
+#Academia {
+  margin-left: 30%;
+}
+
+#Titulo4 {
+  font-size:20px;
+  background-color: #bb8fce;
+  text-align: center;
+}
+
+#Xp {
+  margin-left: 30%;
+}
+
+#Titulo5 {
+  font-size:20px;
+  background-color: #bb8fce;
+  text-align: center;
+}
+
+#Ref {
+  margin-left: 30%;
+}
